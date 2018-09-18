@@ -11,6 +11,8 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: $m-size;
   line-height: 1.6;
+  background-image: radial-gradient(circle, black, white);
+  // background-size: cover;
 }
 
 button {
